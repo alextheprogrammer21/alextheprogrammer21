@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
+
+Check out some of my projects:
+[Crown Clothing](https://63a8d4774f8b8b1e3e9e04ea--incredible-panda-aa8de2.netlify.app/)
+[Natours](https://alextheprogrammer21.github.io/Natours/)
+[Portfolio](https://alextheprogrammer.netlify.app/)
+
+📫 How to reach me: alextheprogrammer21@gmail.com
 
 <!--
 **alextheprogrammer21/alextheprogrammer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
